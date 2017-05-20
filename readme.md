@@ -1,7 +1,7 @@
 
 ### Setup:
 - ``cd app && npm install``
-- ``cd server && npm install`
+- ``cd server && npm install``
 
 ### Run:
 - ``cd app && npm start``
